@@ -27,6 +27,7 @@ You are required to build an **interactive dashboard report** showing the follow
 ---
 
 ## 📂 File Structure
+- **Dashboard file **:https://github.com/ajcstanu/Daily-Revenue/blob/main/DailyRevenue%20(Recovered).xlsx
 
 ```plaintext
 Ambit Data Analyst Assignment/
